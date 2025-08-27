@@ -1,0 +1,13 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.test1
+{
+    min-width: 100vw;
+    min-height: 90vh;
+    border: 1px solid green;
+}
